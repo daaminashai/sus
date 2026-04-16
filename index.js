@@ -121,6 +121,7 @@ window.onload = async () => {
       push("Hacked", pick(hacked_statements));
       push("Hacked By", "daamin");
       push("Current Status", "\u{D9E}");
+      push("credit to my goat for this masterpiece", "<a href="github.com/3kh0">3kh0</a>");
     };
 
     start.onclick = async () => {
